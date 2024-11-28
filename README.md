@@ -13,9 +13,9 @@ Phiên bản Git: git --version
 Phiên bản
 **2.34.1**  
 ### Câu 2: 
-user.name=Le Quang Truong
-user.email=thanhtruongle2003@gmail.com
-câu lệnh: 
+##user.name=Le Quang Truong
+##user.email=thanhtruongle2003@gmail.com
+**câu lệnh: 
 git config --global user.name "Your name"
 git config --global user.email "Your email"
 git config --list
