@@ -1,14 +1,23 @@
 # git-lab
 
- **full name**
- LÊ Quang Trường
- **GitHub user name**
- Lequangtruong03
+ ## Thông tin cá nhân  
+- **Họ và tên:** LÊ Quang Trường  
+- **GitHub Username:** Lequangtruong03  
 
-Trả lời câu hỏi
-Câu 1: git version 2.34.1
-Câu 2: user.name=le Quang Truong
-       user.email=thanhtruongle2003@gmial.com
-Câu 3: git --help //   sẽ hiển thị ra các chức năng của git và các câu lệnh  cơ bản
-Câu 4: 
-Câu 5: 
+---
+
+## Câu hỏi và câu trả lời  
+
+### Câu 1: Phiên bản Git đang sử dụng  
+Phiên bản Git: git --version
+Phiên bản
+**2.34.1**  
+### Câu 2: 
+user.name=Le Quang Truong
+user.email=thanhtruongle2003@gmail.com
+câu lệnh: 
+git config --global user.name "Your name"
+git config --global user.email "Your email"
+git config --list
+### Câu 3:
+Hiển thị ra các cú pháp của git có thể sử dụng trong môi trường python
